@@ -1,0 +1,126 @@
+html{
+    background-color:indianred;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    margin-left: 500px;
+    margin-top: 100px;
+    opacity: .7;
+}
+
+#about p{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+#about img{
+    float: left;
+}
+
+p{
+    margin-right: 100px;
+    margin-left:500px;
+    margin-top:100px;
+    line-height:50px;
+}
+
+.edu .eduimg{
+    margin-top: 100px;
+    list-style-type: none;
+
+}
+
+.skill{
+    margin-left: 150px;
+}
+
+
+.edu .eduimg li{
+    float: left;
+    margin-right: 22px;
+}
+
+.edu .names{
+    padding-top: 70px;
+    list-style-type: none;
+}
+
+.edu .names li{
+    float:left;
+    margin-left: 60px;
+    margin-right: 70px;
+
+}
+
+.edu .names{
+    padding-top: 175px;
+}
+
+.edu .course{
+    list-style-type: none;
+    padding-top:20px
+}
+
+.edu .course li{
+    float:left;
+    margin-right: 283px;
+}
+
+.edu .marks{
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+.edu .marks li{
+   float: left;
+   margin-right: 330px;
+}
+
+.skill img{
+    float: left;
+}
+
+.skill ul{
+    padding-top: 15px;
+    line-height: 2;
+}
+
+.skill li{
+    margin-left: 600px;
+}
+
+.ach{
+    margin-left: 150px;
+}
+
+.ach img{
+    float: left;
+}
+
+.ach li{
+    margin-left: 400px;
+    line-height: 7.5;
+}
+
+.contact img{
+    float: left;
+}
+
+.contact h4{
+    margin-left: 800px;
+    margin-top:30px
+
+}
+
+.contact{
+    margin-top: 300px;
+}
+
+.edu h1{
+    margin-left:450px;
+}
+
+.ach{
+    margin-top: 300px;;
+}
